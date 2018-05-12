@@ -1,0 +1,40 @@
+_repo: Abdallah-eli-nelilehtinen-apilaArabialainen-kertomus_18966
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mellin, Robert
+    aliases:
+    - Mellin, R.
+    - Mellin, Gustaf Robert
+    birthdate: 1826
+    deathdate: 1880
+    gutenberg_agent_id: '8377'
+    url: http://www.gutenberg.org/2009/agents/8377
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laboulaye, Édouard
+    aliases:
+    - Laboulaye, Edouard
+    - Laboulaye, Édouard-René Lefebvre de
+    birthdate: 1811
+    deathdate: 1883
+    gutenberg_agent_id: '4235'
+    url: http://www.gutenberg.org/2009/agents/4235
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89douard_Ren%C3%A9_Lef%C3%A8vre_de_Laboulaye
+description: 'Translation of: Abdallah; ou, Le trèfle a quatre feuilles'
+gutenberg_issued: '2006-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18966'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Arabian Peninsula -- Fiction'
+title: 'Abdallah eli nelilehtinen apila: Arabialainen kertomus'
+url: http://www.gutenberg.org/ebooks/18966
