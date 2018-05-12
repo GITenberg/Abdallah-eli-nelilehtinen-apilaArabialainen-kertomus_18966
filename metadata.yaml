@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4235
     wikipedia: http://en.wikipedia.org/wiki/%C3%89douard_Ren%C3%A9_Lef%C3%A8vre_de_Laboulaye
 description: 'Translation of: Abdallah; ou, Le trèfle a quatre feuilles'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18966#Abdallah-eli-nelilehtinen-apilaArabialainen-kertomus
 gutenberg_issued: '2006-08-02'
 gutenberg_type: Text
 identifiers:
